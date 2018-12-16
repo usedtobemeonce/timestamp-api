@@ -1,0 +1,11 @@
+{
+  "name": "timestamp-api",
+  "version": "1.0.0",
+  "description": "This is a test API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "usedtobemeonce",
+  "license": "ISC"
+}
